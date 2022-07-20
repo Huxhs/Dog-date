@@ -1,2 +1,1 @@
-# Dog-date
-Dog dating app
+TinDog Starting Files
